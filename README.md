@@ -1,2 +1,2 @@
 # TextReader
-A text reader able to count words of 6 characteers or more in a file
+A text reader able to count words of 6 characters or more in a simple text file
